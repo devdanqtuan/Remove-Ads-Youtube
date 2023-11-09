@@ -6,8 +6,8 @@
 // @author       Devdanqtuan
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
-// @updateURL    hhttps://github.com/devdanqtuan/Remove-Ads-Youtube/raw/main/RemoveYtbAds.js
-// @downloadURL  hhttps://github.com/devdanqtuan/Remove-Ads-Youtube/raw/main/RemoveYtbAds.js
+// @updateURL    https://github.com/devdanqtuan/Remove-Ads-Youtube/raw/main/RemoveYtbAds.js
+// @downloadURL  https://github.com/devdanqtuan/Remove-Ads-Youtube/raw/main/RemoveYtbAds.js
 // @grant        none
 // ==/UserScript==
 
